@@ -33,4 +33,4 @@ I love the entire process of developing creative and individual websites. I love
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=60A5FA)
 
-
+![Snake animation](https://github.com/marcokoepfli/marcokoepfli/blob/output/github-contribution-grid-snake.svg)

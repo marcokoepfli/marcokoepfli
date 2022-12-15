@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/marcokoepfli/marcokoepfli/main/banner.png)
 <h3 align="center">
 Hi there, I'm <a href="https://marco-koepfli.ch/" target="_blank" rel="noreferrer">Marco</a> 👋
 </h3>

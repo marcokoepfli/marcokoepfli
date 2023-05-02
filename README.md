@@ -21,9 +21,7 @@ I love the entire process of developing creative and individual websites. I love
 
 ## 🔭 I'm currently working on
 
-- A Working Time Website
 - My own projects
-- Some Customer Websites
 
 ## 🌱 I'm currently learning
 

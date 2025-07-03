@@ -1,38 +1,36 @@
-![](https://raw.githubusercontent.com/marcokoepfli/marcokoepfli/main/banner.png)
-<h3 align="center">
-Hi there, I'm <a href="https://marco-koepfli.ch/" target="_blank" rel="noreferrer">Marco</a> 👋
-</h3>
+<!-- HEADER / PROFILE SHOT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7F9CF5&center=true&width=435&lines=Hi%2C+I'm+Marco!;Laravel+Enthusiast+%F0%9F%94%A5;Code+with+Passion+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-</div>
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻 and WordPress Expert 🌐!
-</h2> 
+---
 
-I love the entire process of developing creative and individual websites. I love the challenge of finding caches and creating stunning websites.
+## 👋 Hey, I'm Marco
 
-### 🤝 Connect with me:
+- 🛠️ **Languages & Tools:** Laravel, PHP, MySQL, Tailwind CSS, HTML, CSS/SCSS, Javascript
+- 🥰 **Passionate about:** Elegant code, clever solutions, and everything Laravel!  
 
-<a href="https://instagram.com/marco_mk0"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Marco | Instagram" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+---
 
-## 🔭 I'm currently working on
+### 🦾 My Tech Stack
 
-- My own projects
+```php
+return [
+    'framework' => 'Laravel ❤️',
+    'backend' => ['PHP', 'MySQL'],
+    'frontend' => ['Tailwind', 'HTML', 'CSS', 'SCSS', 'Javascript'],
+];
 
-## 🌱 I'm currently learning
-
-- Laravel with Livewire
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=red)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=blue)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=60A5FA)
-
+```
